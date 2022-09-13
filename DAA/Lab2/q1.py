@@ -10,4 +10,4 @@ for i in range(n):
         print("Value found at index ",i+1)
 
 # space complexity:O(N)
-# Time complexity: O(N)
+# Time complexity: O(N) 
